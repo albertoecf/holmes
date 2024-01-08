@@ -1,0 +1,24 @@
+{
+    "Description": "Senior Software Engineer - HolmesAssistant",
+    "Location": "Remote",
+    "you_will": [
+        "Design and implement a WebScrapper module for fetching data from various job portals.",
+        "Integrate and utilize opensource LLM models like llama2 or mistral for natural language processing.",
+        "Develop VectorDB functionalities for storing and accessing job information using technologies such as Chroma or Postgres VectorDB.",
+        "Implement Chains and Agents using LCEL (Langchain Common Expression Language) for processing job offers and storing structured data.",
+        "Create a Chain/Agent to match user profiles with stored jobs using advanced ML models and common expression language.",
+        "Deploy a solution with simple authentication, utilizing langserve deployed on AWS EC2 with Docker containers.",
+        "Collaborate on the deployment of a 'local' running model powered by ollama, employing llama2 model.",
+        "Deploy monitoring for the system (To Be Determined)."
+    ],
+    "you_have": [        
+        "Proven expertise in web scraping techniques and tools.",
+        "Experience working with opensource LLM models, preferably llama2 or mistral.",
+        "Familiarity with VectorDB systems such as Chroma or Postgres VectorDB.",
+        "Proficiency in implementing Chains and Agents using LCEL.",
+        "Strong background in ML models and their application to job matching.",
+        "Experience with deployment on AWS EC2 using Docker containers.",
+        "Knowledge of authentication systems and deployment of langserve.",
+        "Previous experience in deploying and monitoring cloud-based solutions."
+    ]
+}
